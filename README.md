@@ -3,6 +3,7 @@
 #### Лабораторная работа 02 (дедлайн 26.09.2025) ####
 задание: https://github.com/kpfuse/pr503/blob/main/c_lab02.pdf
 </br>
+индивидуальные задания по вариантам:  https://github.com/kpfuse/pr503/blob/main/c_lab02_ind.pdf</br>
 куда сдать: https://classroom.github.com/a/yfiap15U </br>
 
 #### Лабораторная работа 01 (дедлайн 17.09.2025) ####
