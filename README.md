@@ -1,5 +1,13 @@
 ### Основы программирования (лабораторные работы) ### 
 
+### Лабораторная работа 11 (дедлайн ) ####
+задание:   </br>
+куда сдать: https://classroom.github.com/a/Vc_El9sQ </br>
+
+### Лабораторная работа 10 (дедлайн ) ####
+задание:   </br>
+куда сдать:  https://classroom.github.com/a/acGGgcJB </br>
+
 ### Лабораторная работа 09 (дедлайн 19.12.2025) ####
 задание:  https://github.com/kpfuse/pr503/blob/main/c_lab08_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B82.pdf </br>
 куда сдать:  https://classroom.github.com/a/24aw8J2n </br>
